@@ -1,0 +1,9 @@
+---
+apiVersion: v2
+appVersion: 6.0.43-ls94
+name: protonmail-bridge
+version: 1.0.1
+dependencies:
+  - name: common
+    repository: https://k8s-at-home.com/charts/
+    version: 2.2.1
